@@ -1,0 +1,26 @@
+[
+  {
+      "livro": "Hebreus",
+      "capitulo": "11",
+      "versiculo": "1",
+      "texto": "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos."
+  },
+  {
+      "livro": "Romanos",
+      "capitulo": "10",
+      "versiculo": "17",
+      "texto": "Consequentemente, a fé vem por ouvir a mensagem, e a mensagem é ouvida mediante a palavra de Cristo."
+  },
+  {
+      "livro": "2 Coríntios",
+      "capitulo": "5",
+      "versiculo": "7",
+      "texto": "Pois vivemos por fé, e não pelo que vemos."
+  },
+  {
+      "livro": "Tiago",
+      "capitulo": "1",
+      "versiculo": "6",
+      "texto": "Peça-a, porém, com fé, sem duvidar, pois aquele que duvida é semelhante à onda do mar, levada e agitada pelo vento."
+  }
+]
